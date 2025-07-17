@@ -50,3 +50,5 @@ The compression speed is significantly faster when compared to a single-threaded
 - compressed.txt – Output after compression
 - decompressed.txt – Output after restoring original file
 
+- ![Image](https://github.com/user-attachments/assets/5245ec5a-5476-474a-a196-1960bd17c581)
+
