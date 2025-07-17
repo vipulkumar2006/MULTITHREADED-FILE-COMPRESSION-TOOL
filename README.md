@@ -52,6 +52,6 @@ The compression speed is significantly faster when compared to a single-threaded
 
 - ![Image](https://github.com/user-attachments/assets/5245ec5a-5476-474a-a196-1960bd17c581)
 
-- 
+- ![Image](https://github.com/user-attachments/assets/9ce08653-0c5a-443f-81bc-6a022ce15348)
 
 
